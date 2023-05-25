@@ -1,7 +1,7 @@
 <template>
   <div>
     <router-link
-        :to="{ name: 'content', params: { slug: node.slug } }"
+        :to="{ name: node.routeName, params: { slug: node.slug } }"
         class="node"
         :class="{ child: depth !== 0 }"
         :style="{ marginLeft: `${depth * 20}px` }"
@@ -22,7 +22,7 @@
           class="fa-solid fa-chevron-right"
           v-if="hasChildren"
           :class="['node__icon', { 'rotate-90': expanded }]"
-          @click.stop="nodeClick"
+          @click.stop.prevent="nodeClick"
       ></i>
 
     </router-link>

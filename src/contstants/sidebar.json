@@ -1,63 +1,81 @@
 [
   {
+    "id": 1000,
+    "icon": "fa-solid fa-house",
+    "routeName": "home",
+    "title": "Басты бет"
+  },
+  {
     "id": 1,
     "icon": "fa-solid fa-brain",
     "slug": "introduction",
+    "routeName": "content",
     "title": "Теориялық бөлім",
     "children": [
       {
         "id": 11,
         "slug": "introduction",
+        "routeName": "content",
         "title": "Тақырып 1. Электр заряды және оның қасиеттері. Кулон заңы"
       },
       {
         "id": 12,
         "slug": "theme2",
+        "routeName": "content",
         "title": "Тақырып 2. Ваккумдағы электростатикалық өріс"
       },
       {
         "id": 13,
         "slug": "theme3",
+        "routeName": "content",
         "title": "Тақырып 3. Электр өрістерінің суперпозиция принципі. Диполь өрісі"
       },
       {
         "id": 14,
         "slug": "theme4",
+        "routeName": "content",
         "title": "Тақырып 4. Өткізгіш және диэлектриктердегі электр өрісі"
       },
       {
         "id": 15,
         "slug": "theme5",
+        "routeName": "content",
         "title": "Тақырып 5. Электростатикалық өріс энергиясы"
       },
       {
         "id": 16,
         "slug": "theme6",
+        "routeName": "content",
         "title": "Тақырып 6. Тұрақты электр тогы"
       },
       {
         "id": 17,
         "slug": "theme7",
+        "routeName": "content",
         "title": "Тақырып 7.  Магнетизм"
       },
       {
         "id": 18,
         "slug": "theme8",
+        "routeName": "content",
         "title": "Тақырып 8. Магнит өрісіндегі қозғалмалы зарядтарға әсер ететін күштер"
       },
       {
         "id": 19,
         "slug": "theme9",
+        "routeName": "content",
         "title": "Тақырып 9. Магниттік индукция векторының ағыны және оның циркуляциясы. Остроградский – Гаусс теоремасы."
       },
       {
         "id": 111,
         "slug": "theme10",
+        "routeName": "content",
         "title": "Тақырып 10. Электромагниттік индукция заңы"
       },
       {
         "id": 112,
         "slug": "theme11",
+        "routeName": "content",
         "title": "Тақырып 11. Максвелл теңдеулері"
       }
     ]
@@ -66,76 +84,91 @@
     "id": 2,
     "icon": "fa-solid fa-flask",
     "slug": "theme12",
+    "routeName": "content",
     "title": "Зертханалық бөлім",
     "children": [
       {
         "id": 20,
         "slug": "theme12",
+        "routeName": "content",
         "title": "Зертханалық жұмыс  №1"
       },
       {
         "id": 21,
         "slug": "theme13",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №2"
       },
       {
         "id": 22,
         "slug": "theme14",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №3"
       },
       {
         "id": 23,
         "slug": "theme15",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №4"
       },
       {
         "id": 24,
         "slug": "theme16",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №5"
       },
       {
         "id": 25,
         "slug": "theme17",
+        "routeName": "content",
         "title": "Зертханалық  жұмыс № 6"
       },
       {
         "id": 26,
         "slug": "theme18",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №7"
       },
       {
         "id": 27,
         "slug": "theme19",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №8"
       },
       {
         "id": 28,
         "slug": "theme20",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №9"
       },
       {
         "id": 29,
         "slug": "theme21",
+        "routeName": "content",
         "title": "Зертханалық  жұмыс №10"
       },
       {
         "id": 220,
         "slug": "theme22",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №11"
       },
       {
         "id": 221,
         "slug": "theme23",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №12"
       },
       {
         "id": 222,
         "slug": "theme24",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №13"
       },
       {
         "id": 223,
         "slug": "theme25",
+        "routeName": "content",
         "title": "Зертханалық жұмыс №14"
       }
     ]
@@ -145,6 +178,7 @@
     "icon": "fa-solid fa-square-root-variable",
     "title": "Есеп шығару үлгілері",
     "slug": "theme26",
+    "routeName": "content",
     "children": []
   },
   {
@@ -152,6 +186,7 @@
     "icon": "fa-solid fa-atom",
     "title": "Бақылау бөлімі",
     "slug": "test",
+    "routeName": "content",
     "children": []
   },
   {
@@ -159,6 +194,7 @@
     "icon": "fa-solid fa-book",
     "title": "Глоссарий",
     "slug": "glossary",
+    "routeName": "content",
     "children": []
   }
 ]
