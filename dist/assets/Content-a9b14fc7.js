@@ -1,4 +1,4 @@
-import{_ as p,b as o,d as m,w as f,o as i,c as a}from"./index-ed534808.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-c696f69e.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
@@ -1805,7 +1805,7 @@ width=51 height=42 src="https://raw.githubusercontent.com/ZhMadina/diploma-physi
 <p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
 150%'><span lang=RU style='font-size:14.0pt;line-height:150%'>Индукция өлшемі </span><span
 lang=RU style='font-size:11.0pt;line-height:115%;font-family:"Calibri",sans-serif;
-position:relative;top:7.0pt'><img width=71 height=32
+position:relative;'><img width=71 height=32
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image090.png"></span></p>
 
 <p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
@@ -2222,7 +2222,7 @@ hspace=12></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt'><span lang=KZ
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman KK EK",serif'><span
-style='position:relative;top:7.0pt'><img width=9 height=25
+style='position:relative;'><img width=9 height=25
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image136.png"></span></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt'><span lang=KZ
@@ -7129,7 +7129,7 @@ style='position:relative;'><img width=36 height=44
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image277.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>=</span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:31.0pt'><img width=82 height=66
+style='position:relative;'><img width=82 height=66
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image283.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>     </span><span
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>                                     </span><span
@@ -7143,7 +7143,7 @@ lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
 style='position:relative;'><img width=14 height=14
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image284.png"></span>= </span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:31.0pt'><img width=52 height=66
+style='position:relative;'><img width=52 height=66
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image285.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>    </span></p>
 
@@ -7352,13 +7352,13 @@ lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>     �
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
 line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:7.0pt'><img width=46 height=32
+style='position:relative;'><img width=46 height=32
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image298.png"></span></span><span
 lang=RU style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
 style='position:relative;'><img width=74 height=42
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image299.png"></span>=</span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:31.0pt'><img width=82 height=66
+style='position:relative;'><img width=82 height=66
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image300.png"></span></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
@@ -7883,7 +7883,7 @@ lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'> -дан U
 line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>                                              
 U<sub>A</sub><span style='font-variant:small-caps'>=</span></span><span
 lang=RU style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:7.0pt'><img width=26 height=30
+style='position:relative;'><img width=26 height=30
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image313.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>-U<sub>RA</sub>=</span><span
 lang=RU style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
@@ -7923,7 +7923,7 @@ lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>(**)</span>
 жиынтығын сызбада көрсетуге мүмкiншiлiк бередi (9-сурет).  Теңдеуден I<sub>A</sub>=
 0 болғанда U<sub>A</sub> =</span><span lang=RU style='font-size:14.0pt;
 line-height:108%;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:7.0pt'><img width=26 height=30
+style='position:relative;'><img width=26 height=30
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image316.png"></span></span><span
 lang=KZ style='font-size:14.0pt;line-height:108%;font-family:"Kz Times New Roman",serif'>,
 ал U<sub>A</sub><span style='font-variant:small-caps'> =o  </span>болғанда</span></p>
@@ -13559,7 +13559,7 @@ normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",s
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>                                               
 U<sub>С</sub>=U<sub>ШЫҒ </sub>= U<sub>КР</sub> /</span><span style='font-size:
 14.0pt;font-family:"Kz Times New Roman",serif'><span style='position:relative;
-top:7.0pt'><img width=90 height=30
+'><img width=90 height=30
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image437.png"></span></span><sup><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>2</span></sup><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>                             
@@ -14929,7 +14929,7 @@ style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></p>
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
 text-indent:35.45pt;line-height:normal'><span style='font-size:14.0pt;
 font-family:"Kz Times New Roman",serif'>U <sub>0</sub>=<sub> </sub>I<sub>0</sub><span
-style='position:relative;top:7.0pt'><img width=154 height=34
+style='position:relative;'><img width=154 height=34
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image478.png"></span><sup>2</sup>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
@@ -15078,7 +15078,7 @@ text-indent:35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt'>�
 style='font-size:14.0pt;font-family:"Times\\/Kazakh"'>os </span><span
 style='font-size:14.0pt;font-family:Symbol'>j</span><span style='font-size:
 14.0pt;font-family:"Times\\/Kazakh"'> = R/Z= R<sup>2</sup>/(<span
-style='position:relative;top:7.0pt'><img width=170 height=34
+style='position:relative;'><img width=170 height=34
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image479.png"></span></span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>)</span></p>
 
@@ -15183,7 +15183,7 @@ src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>актив
 кедергісін </span><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>R=P/</span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:7.0pt'><img width=22 height=26
+style='position:relative;'><img width=22 height=26
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image481.png"></span></span><span
 style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'> </span><span
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'> өрнегі
@@ -16737,7 +16737,7 @@ width=30 height=46 src="https://raw.githubusercontent.com/ZhMadina/diploma-physi
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif;
 font-variant:small-caps'>=</span><span style='font-size:14.0pt;font-family:
 "Kz Times New Roman",serif;font-variant:small-caps'><span style='position:relative;
-top:7.0pt'><img width=22 height=26
+'><img width=22 height=26
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image516.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif;
 font-variant:small-caps'>L<sub>РЕЗ</sub>                L<sub>РЕЗ</sub></span><span
@@ -17938,7 +17938,7 @@ normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",s
 <p class=MsoNormal align=center style='text-align:center'><span lang=KZ
 style='font-size:14.0pt;line-height:115%;font-family:"Kz Times New Roman",serif'>                                      
 Z=</span><span style='font-size:14.0pt;line-height:115%;font-family:"Kz Times New Roman",serif'><span
-style='position:relative;top:7.0pt'><img width=110 height=34
+style='position:relative;'><img width=110 height=34
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image542.png"></span></span><span
 lang=KZ style='font-size:14.0pt;line-height:115%;font-family:"Kz Times New Roman",serif'>                                                   
 (2)</span></p>
