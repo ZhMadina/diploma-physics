@@ -1,4 +1,4 @@
-import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-fde7beeb.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-8ff19759.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
@@ -10259,7 +10259,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
  </tr>
  <tr>
   <td></td>
-  <td><img width=357 height=1
+  <td><img width=500 height=250
   src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image341.png"></td>
  </tr>
 </table>
@@ -10931,7 +10931,7 @@ text-indent:35.45pt;line-height:normal'>
  </tr>
  <tr>
   <td></td>
-  <td><img width=246 height=1
+  <td><img width=250 height=250
   src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image353.png"></td>
  </tr>
 </table>
@@ -11890,7 +11890,7 @@ text-indent:35.45pt;line-height:normal'>
  </tr>
  <tr>
   <td></td>
-  <td><img width=396 height=1
+  <td><img width=396 height=300
   src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image375.jpg"></td>
  </tr>
 </table>
@@ -13491,7 +13491,7 @@ lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>сыйым�
 кедергісі.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><img width=261 height=1
+normal'><img width=261 height=250
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image435.png" align=left
 hspace=12></p>
 
@@ -14538,7 +14538,7 @@ normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",seri
 </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><img width=262 height=1
+normal'><img width=262 height=250
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image468.png" align=left
 hspace=12></p>
 
@@ -18211,7 +18211,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
  </tr>
  <tr>
   <td></td>
-  <td><img width=384 height=1
+  <td><img width=384 height=300
   src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image550.jpg"></td>
  </tr>
 </table>
@@ -18731,6 +18731,10 @@ left:286px;top:-99729px;width:39px;height:1px'><img width=39 height=1
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image647.png"></span></span><span
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>                                                            
 </span><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>B<sub>1</sub></span></p>
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
+normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'><span
+style='position:relative;'><img width=600 height=250
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image646.png"></span></span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>Қорытқы
 өрістің А нүктесіндегі индукциясы шамасын косинустар теоремасы бойынша табамыз:
