@@ -99,7 +99,7 @@ export default {
     align-items: center;
     cursor: pointer;
     i.fa-circle {
-      font-size: 12px;
+      font-size: 10px;
     }
   }
   &.child.active {
