@@ -1,4 +1,4 @@
-import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-080c6f37.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-f1fc3dd2.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
@@ -421,38 +421,22 @@ style='position:relative;'>                          �
 тең, система өрісі анықталатын нүктеге қарағанда ара қашықтығы l едәуір аз әр
 текті екі, +q және –q нүктелік зарядтан құрылған жүйені айтамыз (1 сурет).</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:150%'><span lang=KZ style='font-size:14.0pt;line-height:
-150%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=280 height=100
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image667.png"
+hspace=12>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+line-height:150%;font-family:"Times New Roman",serif'>(1 сурет)</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:150%'><span lang=KZ style='font-size:14.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>q<sup>-</sup>     </span><span
-lang=CA style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'><span
-style='position:relative;'><img width=12 height=23
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image020.png"></span></span><span
-lang=CA style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'> </span><span
-lang=CA style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'><span
-style='position:relative;'><img width=12 height=23
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image021.png"></span></span><span
-lang=KZ style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'>   q<sup>+          
-</sup></span><span lang=CA style='font-size:14.0pt;line-height:150%;font-family:
-"Times New Roman",serif'><span style='position:relative;top:'><img
-width=16 height=21 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image022.png"></span></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;line-height:150%'><span
-style='position:relative;z-index:251660288'><span style='position:absolute;
-left:334px;top:-5px;width:69px;height:13px'><img width=69 height=13
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image023.png"></span></span><span
-style='position:relative;z-index:251659264'><span style='position:absolute;
-left:250px;top:-4px;width:69px;height:13px'><img width=69 height=13
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image023.png"></span></span><span
-lang=KZ style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'>                                                      
-     +                  -               </span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:150%'><span lang=KZ style='font-size:14.0pt;
-line-height:150%;font-family:"Times New Roman",serif'>(1 сурет)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:150%'><span lang=KZ style='font-size:14.0pt;line-height:
@@ -503,8 +487,7 @@ style='position:relative;'>                          �
 position:relative;'>                                                 </span><span
 lang=KZ style='font-size:14.0pt;line-height:150%;font-family:"Times New Roman",serif'><span
 style='position:relative;'><img width=84 height=43
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image027.png"></span>.                                            (7)</span></p>
-`},{slug:"theme4",content:`<h1 style='margin-top:0in;text-align:justify;text-indent:35.45pt;line-height:
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image027.png"></span>.                                            (7)</span></p>`},{slug:"theme4",content:`<h1 style='margin-top:0in;text-align:justify;text-indent:35.45pt;line-height:
 150%'><a name="_Toc134829582"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:windowtext'>Тақырып 4. Өткізгіш және диэлектриктердегі электр өрісі</span></a></h1>
 
@@ -1707,13 +1690,13 @@ lang=KZ style='font-size:14.0pt;line-height:150%'>Магнит өрісінде�
 белгілеулерінде Ампер заңы формуламен өрнектеледі</span></p>
 
 <p class=MsoBodyText align=right style='text-align:right;text-indent:35.45pt;
-line-height:150%'><span lang=KZ style='font-size:14.0pt;line-height:150%'>                                               d<i>F<span
+line-height:150%'><span lang=KZ style='font-size:14.0pt;line-height:150%'>d<i>F<span
 style='letter-spacing:1.0pt'> </span></i></span><span lang=KZ style='font-size:
 14.0pt;line-height:150%;font-family:Symbol'>=</span><span lang=KZ
 style='font-size:14.0pt;line-height:150%'> <i>I</i>[d<i>l<span
 style='letter-spacing:-.3pt'> </span></i>,<span style='letter-spacing:-1.65pt'>
 </span><i>B</i>]<span style='letter-spacing:-.3pt'> </span></span><span
-lang=KZ style='font-size:1;line-height:150%'>,                                       </span><span
+lang=KZ style='font-size:1;line-height:150%'>,</span><span
 lang=KZ style='font-size:14.0pt;line-height:150%'>(33)</span></p>
 
 <p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
@@ -1726,9 +1709,7 @@ lang=KZ style='font-size:14.0pt;line-height:150%'>(33)</span></p>
 
 <p class=MsoNormal align=right style='margin-top:2.35pt;margin-right:0in;
 margin-bottom:0in;margin-left:191.4pt;text-align:right;line-height:normal;
-text-autospace:none'><span style='position:absolute;z-index:-1895816192;
-left:0px;margin-left:455px;margin-top:1px;width:39px;height:16px'><img
-width=39 height=16 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image086.png"></span><i><span
+text-autospace:none'><i><span
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>dF<span
 style='letter-spacing:1.3pt'> </span></span></i><span lang=KZ style='font-size:
 14.0pt;font-family:Symbol'>=</span><span lang=KZ style='font-size:14.0pt;
@@ -1748,7 +1729,7 @@ font-family:"Times New Roman",serif'>(34)</span></p>
 онда</span></p>
 
 <p class=MsoBodyText style='text-indent:35.45pt;line-height:150%'><i><span
-lang=KZ style='font-size:13.5pt;line-height:150%;letter-spacing:-.1pt'>                                                    F</span></i><i><span
+lang=KZ style='font-size:13.5pt;line-height:150%;letter-spacing:-.1pt'>F</span></i><i><span
 lang=KZ style='font-size:13.5pt;line-height:150%;letter-spacing:-.05pt'> </span></i><span
 lang=KZ style='font-size:13.5pt;line-height:150%;font-family:Symbol;letter-spacing:
 -.1pt'>=</span><span lang=KZ style='font-size:13.5pt;line-height:150%;
@@ -1768,25 +1749,26 @@ lang=KZ style='font-size:14.0pt;line-height:150%'> -  S қимасы бар ө
 <p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
 150%'>
 
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=306 height=0></td>
- </tr>
- <tr>
-  <td></td>
-  <td><img width=239 height=248
-  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image088.jpg"></td>
- </tr>
-</table>
-
-<br clear=ALL>
 <span lang=KZ style='font-size:14.0pt;line-height:150%'>F күшінің бағыты
 векторлық көбейтіндінің бағытымен немесе сол қол ережесімен анықталады:
 саусақтарды бірінші вектордың бағытына бағыттаңыз, екінші вектор алақанға енуі
 керек, ал бас бармақ векторлық көбейтіндінің бағытын көрсетеді (8 сурет).</span></p>
 
-<p class=MsoBodyText align=center style='text-align:center;line-height:150%'><span
-lang=KZ style='font-size:14.0pt;line-height:150%'>8 сурет </span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=239 height=248
+  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image088.jpg">
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span
+lang=KZ style='font-size:14.0pt;line-height:150%'>8 сурет </span>
+  </td>
+ </tr>
+</table>
+
 
 <p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
 150%'><span lang=KZ style='font-size:14.0pt;line-height:150%'>Ампер
@@ -1797,7 +1779,7 @@ lang=KZ style='font-size:14.0pt;line-height:150%'>8 сурет </span></p>
 магниттік индукцияның физикалық мәні айқын көрінеді. В-магнит өрісі бірлік тогы
 өтетін бірлік ұзындығының өткізгішіне әсер ететін күшке сандық тең шама:</span></p>
 
-<p class=MsoBodyText style='text-align:justify;text-indent:35.45pt;line-height:
+<p class=MsoBodyText style='text-align:center;text-indent:35.45pt;line-height:
 150%'><span
 lang=RU style='font-size:11.0pt;line-height:115%;font-family:"Calibri",sans-serif'><img
 width=51 height=42 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image089.png"></span></p>
@@ -2334,55 +2316,22 @@ N<sub>Э </sub>және N<sub>Р</sub> - бүтін сандар, ал е- эл�
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
 "Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><img width=288 height=228
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image141.png" align=left
-hspace=12 alt=el1></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=288 height=228
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image141.png"
+hspace=12 alt=el1>
+  </td>
+ </tr>
+ <tr align="center">
+ <td>
+ <span lang=KZ style='font-size:14.0pt;font-family:
+"Times New Roman",serif'>1-сурет.</span>
+ </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>                                                   
-1-сурет.          </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
@@ -2879,17 +2828,6 @@ lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>Қанда�
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>інің шартын жазып,
 оны дәлелдеңіз.</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
@@ -3531,15 +3469,21 @@ lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'> </span>
 lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>болады</span><span
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>. </span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;
-font-family:"Times New Roman",serif'><img width=373 height=226 id="Рисунок 25"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image200.png" alt=el2></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>                                                     
-2-сурет.</span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=373 height=226 id="Рисунок 25"
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image200.png" alt=el2>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=RU style='font-size:14.0pt;font-family:
+"Times New Roman",serif'>2-сурет.</span>
+  </td>
+ </tr>
+</table>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
@@ -3936,19 +3880,21 @@ style='font-size:14.0pt;font-family:"Times New Roman",serif'>.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>                                
-</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;
-font-family:"Times New Roman",serif'><img width=357 height=225 id="Рисунок 26"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image205.png" alt=el7></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>                                                                             
-3-</span><span lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>сурет</span><span
-style='font-size:14.0pt;font-family:"Times New Roman",serif'>.</span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  <img width=357 height=225 id="Рисунок 26"
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image205.png" alt=el7>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>3-сурет.</span>
+  </td>
+ </tr>
+</table>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
@@ -3994,35 +3940,58 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><spa
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>Тәжірибе
 қорытындыларын жазу үшін кесте дайындаңыз.</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;
-font-family:"Times New Roman",serif'><img width=198 height=126 id="Рисунок 27"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image206.png" alt=cop><img
+
+
+
+<table cellpadding=0 cellspacing=0 width="50%" style="margin: auto">
+ <tr align="center">
+  <td>
+  	<img width=198 height=126 id="Рисунок 27"
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image206.png" alt=cop>
+  </td>
+  <td>
+  	<img
 width=228 height=144 id="Рисунок 28"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image207.png" alt=el7></span></p>
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image207.png" alt=el7>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>4а-сурет.</span>
+  </td>
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>4б-сурет.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>                                   </span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>4</span><span
-lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>а</span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>-сурет.                           
-4</span><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>б</span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>-сурет.</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span style='font-size:14.0pt;
-font-family:"Times New Roman",serif'><img width=201 height=126
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image208.png"></span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>      </span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'><img
+<table cellpadding=0 cellspacing=0 width="50%" style="margin: auto">
+ <tr align="center">
+  <td>
+  	<img width=201 height=126
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image208.png">
+  </td>
+  <td>
+  	<img
 width=216 height=136 id="Рисунок 29"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image209.png" alt=el7></span></p>
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image209.png" alt=el7>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>5а-сурет.</span>
+  </td>
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>5б-сурет.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>                                  
-5а-сурет.                               5б-сурет.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
@@ -4134,16 +4103,20 @@ text-indent:35.45pt;line-height:normal'><b><i><u><span lang=RU-MO
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>Конденсатор
 сыйымдылығын  разрядтау тоғы бойынша анықтау.</span></u></i></b></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>                             </span><span
-style='font-size:14.0pt;font-family:"Times New Roman",serif'><img width=348
-height=203 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image212.png"></span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=348
+height=203 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image212.png">
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>6-сурет.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>                                                      
-</span><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>6-сурет
-.  </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -6493,27 +6466,32 @@ lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>жатты�
 35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
 font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-35.45pt;line-height:normal'><span lang=RU style='font-size:14.0pt;font-family:
-"Times New Roman",serif'>         </span><span lang=RU style='font-size:14.0pt;
-font-family:"Times New Roman",serif'><img width=149 height=111 id="Рисунок 36"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image262.jpg"></span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>        </span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'><img
+
+<table cellpadding=0 cellspacing=0 width="50%" style="margin: auto">
+ <tr align="center">
+  <td>
+  	<img width=149 height=111 id="Рисунок 36"
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image262.jpg">
+  </td>
+  <td>
+  	<img
 width=242 height=148 id="Рисунок 37"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image263.jpg"></span></p>
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image263.jpg">
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>1-сурет.</span>
+  </td>
+   <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>2-сурет. Электролит арқылы өткен  заряд шамасын анықтау.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>1-сурет.                                  </span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>2-сурет</span><span
-lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>.
-Электролит арқылы</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>                                                 
-өткен  заряд шамасын анықтау.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal'><span
@@ -10252,26 +10230,21 @@ lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>К-
 margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal'><span
 lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
-
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=144 height=0></td>
- </tr>
- <tr>
-  <td></td>
-  <td><img width=500 height=250
-  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image341.png"></td>
- </tr>
-</table>
-
-<br clear=ALL>
 <span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>Екі
 және төрт түзеткіштен тұратын екі жарты периодты біріктірілген (9-сурет,</span><span
 lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>10-сурет) </span><span
 lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>сүлбесін
 жинаңыз. Ол арқылы трансформатордан алынатын айнымалы ток дабылын жіберіңізде 
 осциллограф экранынан қосжарты периодты  түзеткіштің жұмысын көрсететін
-осциллограмманы түсіріп алыңыз.</span></p>
+осциллограмманы түсіріп алыңыз.</span>
+
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td><img width=400 height=200
+  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image341.png"></td>
+ </tr>
+</table>
+</p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
 text-indent:35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
@@ -10922,22 +10895,17 @@ lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>шкал
 text-indent:35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
 font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'>
-
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=180 height=0></td>
- </tr>
- <tr>
-  <td></td>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
   <td><img width=250 height=250
   src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image353.png"></td>
  </tr>
+ <tr align="center">
+  <td>
+  <span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>3-сурет.</span>
+  </td>
+ </tr>
 </table>
-
-<br clear=ALL>
-<span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>3-сурет.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
@@ -11881,23 +11849,20 @@ lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>3-сур
 35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
 font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'>
-
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=96 height=0></td>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=396 height=300
+  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image375.jpg">
+  </td>
  </tr>
- <tr>
-  <td></td>
-  <td><img width=396 height=300
-  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image375.jpg"></td>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>3-сурет.</span>
+  </td>
  </tr>
 </table>
-
-<br clear=ALL>
-<span style='font-size:14.0pt;font-family:"Times New Roman",serif'>3-</span><span
-lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>сурет.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -13490,42 +13455,27 @@ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'> </span><span
 lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>сыйымдылық
 кедергісі.</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><img width=261 height=250
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image435.png" align=left
-hspace=12></p>
+
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=261 height=250
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image435.png"
+hspace=12>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>3-сурет.</span>
+  </td>
+ </tr>
+</table>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>                            
 </span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>3-сурет.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
@@ -14537,47 +14487,23 @@ lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>)
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'> 
 </span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><img width=262 height=250
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image468.png" align=left
-hspace=12></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=262 height=250
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image468.png"
+hspace=12>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>1-сурет.
+Айнымалы ток тізбегіндегі қуаттар өзгерісі.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>1-сурет.
-Айнымалы ток тізбегіндегі қуаттар өзгерісі.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -15632,19 +15558,13 @@ lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>=f(L)
 тәуелділіктердің сызбасын салыңызда талдаңыз.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><b><i><u><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'><span
- style='text-decoration:none'>&nbsp;</span></span></u></i></b></p>
+normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><b><i><u><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'><span
- style='text-decoration:none'>&nbsp;</span></span></u></i></b></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><b><i><u><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'><span
- style='text-decoration:none'>&nbsp;</span></span></u></i></b></p>
+normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
 text-indent:35.45pt;line-height:normal'><b><i><u><span lang=KZ
@@ -15669,23 +15589,24 @@ normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",seri
 өлшеуші приборлармен қосылған 6-суретте келтірілген электр жүйесін айнымалы
 кернеу көзі В-24 қосыңыз.</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>                        
-</span><span lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'><img
+
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img
 width=363 height=221 id="Рисунок 71"
-src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image490.png" alt=el8></span></p>
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image490.png" alt=el8>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>6-сурет.</span>
+  </td>
+ </tr>
+</table>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:231.65pt;text-indent:-.25in;line-height:normal'><span lang=KZ
-style='font-size:14.0pt;font-family:"Times New Roman",serif'>6<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>сурет.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span lang=RU style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Times New Roman",serif'>2.
@@ -18059,26 +17980,21 @@ text-indent:35.45pt;line-height:normal'><b><i><u><span lang=KZ
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>ток тізбегіндегі
 кедергісі бойынша анықтау.</span></u></i></b></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
-normal'>
-
-<table cellpadding=0 cellspacing=0 align=left>
- <tr>
-  <td width=120 height=0></td>
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=360 height=300
+  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image549.jpg">
+  </td>
  </tr>
- <tr>
-  <td></td>
-  <td><img width=360 height=1
-  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image549.jpg"></td>
+ <tr align="center">
+  <td>
+  	<span lang=RU-MO style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>Сурет-1 Қондырғының электрлік сүлбесі.</span>
+  </td>
  </tr>
 </table>
 
-<br clear=ALL>
-</p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>Сурет-1 Қондырғының электрлік сүлбесі.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
 normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -18205,26 +18121,26 @@ margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal'><spa
 lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
 
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=96 height=0></td>
- </tr>
- <tr>
-  <td></td>
-  <td><img width=384 height=300
-  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image550.jpg"></td>
- </tr>
-</table>
-
-<br clear=ALL>
 <span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>Индуктивтілігі
 белгілі дроссель катушканы пайдалана отырып, 2-суретте келтірілген электр
 жүйесін жинаңыз. Сүлбедегі диодтың қосылу ретіне көңіл аударыңыз. Микроамперметрдің
 орнына баллистикалық гальванометрді қолданыңыз.</span></p>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:35.45pt;line-height:normal'><span lang=RU-MO style='font-size:14.0pt;
-font-family:"Times New Roman",serif'>Сурет-2</span></p>
+
+<table cellpadding=0 cellspacing=0 width="100%">
+ <tr align="center">
+  <td>
+  	<img width=384 height=300
+  src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image550.jpg">
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+  	<span lang=KZ style='font-size:14.0pt;
+font-family:"Times New Roman",serif'>Сурет-2</span>
+  </td>
+ </tr>
+</table>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:35.45pt;line-height:
 normal'><span lang=RU-MO style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
