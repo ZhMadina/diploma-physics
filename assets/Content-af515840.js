@@ -1,4 +1,4 @@
-import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-d2a8fb98.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-3e1f7c7a.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
@@ -10738,7 +10738,7 @@ normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",s
 </div>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-left:60px'>
-<img width=180 height=250
+<img width=200 height=250
 src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image668.png"
 hspace=12>
 </p>
