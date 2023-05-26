@@ -1,4 +1,4 @@
-import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-f1fc3dd2.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
+import{_ as p,u as o,r as m,w as f,o as i,c as a}from"./index-d2a8fb98.js";const l=[{slug:"introduction",content:`<h1 style='margin-top:0in;text-indent:35.45pt;line-height:150%'><a
 name="_Toc134829579"><span lang=KZ style='font-family:"Times New Roman",serif;
 color:black'>Кіріспе.  Электр заряды және оның қасиеттері. Кулон заңы</span></a></h1>
 
@@ -10717,6 +10717,9 @@ hspace=12 alt=el7><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times Ne
 осындай жолмен өлшеуді оны алыс аралықтан және автоматты түрде жүргізуге
 мүмкіндік береді.</span></p>
 
+<div style="display: flex; margin-top: 30px">
+
+<div>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>      
 Терморезистордың температуралық характеристикасын алу үшін су құйылған шыны
@@ -10731,10 +10734,17 @@ normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",s
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span lang=KZ style='font-size:14.0pt;font-family:"Kz Times New Roman",serif'>      
 Тізбектің резистор бөлігіндегі кернеуді және ток күшін өлшей отырып әртүрлі
-температура кезіндегі кедергіні есептеуге болады.                                                                                    
-1-сурет.   </span></p>
+температура кезіндегі кедергіні есептеуге болады.</span></p>
+</div>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
+<p class=MsoNormal style='margin-bottom:0in;margin-left:60px'>
+<img width=180 height=250
+src="https://raw.githubusercontent.com/ZhMadina/diploma-physics/gh-pages/images/image668.png"
+hspace=12>
+</p>
+</div>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:cemter;text-indent:
 35.45pt;line-height:normal'><span lang=KZ style='font-size:14.0pt;font-family:
 "Times New Roman",serif'>&nbsp;</span></p>
 
